@@ -78,7 +78,6 @@ are organising vocabulary for the 27-verb / 5-group partition.)
    reachable. This is enabling for the SPACE-MEDICINE verb and entire
    life sub-axis. Risk: high (no full validation yet).
 
-## §5 Honest caveats (raw#10 C3)
 
 - Tsiolkovsky (L1) is the most important HARD WALL in this entire
   bundle. No clever architecture brute-forces it. The ONLY paths are

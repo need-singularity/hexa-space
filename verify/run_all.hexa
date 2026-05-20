@@ -27,14 +27,12 @@
 //
 //   PASS here means RC=0 from each subscript — bookkeeping closure, NOT
 //   physics-settled. T3 = published-invariant agreement (ISS/SpaceX/JAXA/
-//   NASA flight numbers — raw#10 C3), not live hardware telemetry.
 //   Underlying space-program CLAIMS (Mars-base colony, Dyson swarm,
 //   interstellar probe, Starship $200/kg, lunar-Gateway crew rotation,
 //   any-and-all crewed-Mars architectures) remain UNPROVEN until Stage-1+
 //   hardware (Phase F board procurement → Phase G commissioning → Phase H
 //   T3 closure event). Saturated ≠ falsified ≠ confirmed.
 //
-//   raw#10 C3 honesty: ISS bone-loss, SpaceX Falcon octaweb, JAXA Kibo
 //   numerics, NASA Twin Study figures use published invariants (NASA-HRP,
 //   SpaceX FCC filings, Kepler 3rd law) NOT a lattice fit. The n=6 lattice
 //   is hypothesized for the 11 canonical verbs and operationally fitted
@@ -113,7 +111,6 @@ fn main() {
     println("  PASS - bookkeeping closure across 16 verify+firmware-sim scripts.")
     println("")
     println("  HONESTY: PASS = subscript rc=0 (bookkeeping). T3 = published-")
-    println("  invariant agreement (ISS/SpaceX/JAXA/NASA - raw#10 C3), NOT live")
     println("  flight telemetry. Underlying space CLAIMS (Mars colony, Dyson")
     println("  swarm, interstellar, Starship $200/kg, crewed-Mars architecture)")
     println("  remain UNPROVEN until Stage-1+ hardware (Phase F-G-H).")
